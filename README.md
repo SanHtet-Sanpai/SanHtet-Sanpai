@@ -1,5 +1,4 @@
-- Full-time: engineering student
-- Part-time: spotify enjoyer
+
 
 
 <!---
